@@ -1,11 +1,11 @@
 <style>
   .name {color: black;
   size: 10;
-  font-family: Century Gothic;}
+  font-family: Garamond;}
   .address {size:5;
   }
   body {background-image: url("bg.jpg");
-  font-family: Century Gothic;
+  font-family: Garamond;
   color: white;
   }
   .center {text-align:center;
@@ -13,8 +13,8 @@
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: black;
-  font-family: Century Gothic;
+  background-color: #FAD7A0;
+  font-family: Garamond;
   font-size: 25px;
   overflow: hidden;
   }
@@ -30,7 +30,7 @@
   color: white;
   text-align: center;
   padding: 14px 30px;
-  float: left;
+  float: right;
   font-size: 30px;
   }
   a {
