@@ -1,11 +1,11 @@
 <style>
   .name {color: black;
   size: 10;
-  font-family: Garamond;}
+  font-family: Palatino;}
   .address {size:5;
   }
   body {background-image: url("bg.jpg");
-  font-family: Garamond;
+  font-family: Palatino;
   color: white;
   }
   .center {text-align:center;
@@ -13,13 +13,13 @@
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #FAD7A0;
-  font-family: Garamond;
+  background-color: #F6DDCC;
+  font-family: Palatino;
   font-size: 25px;
   overflow: hidden;
   }
   .inline {display: inline;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 30px;
   float: right;
