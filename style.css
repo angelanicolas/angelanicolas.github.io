@@ -21,15 +21,15 @@
   .inline {display: inline;
   color: black;
   text-align: center;
-  padding: 14px 30px;
-  float: left;
+  padding: 10px 25px;
+  float: right;
   }
   .inline:hover {background-color:white;
   }
   .head {display: inline;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 14px 30px;
+  padding: 10px 25px;
   float:left;
   font-size: 30px;
   }
