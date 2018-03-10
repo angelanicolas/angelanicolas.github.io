@@ -6,7 +6,7 @@
   }
   body {background-image: url("bg.jpg");
   font-family: Palatino;
-  color: #E5E7E9;
+  color: #17202A;
   }
   .center {text-align:center;
   }
@@ -23,8 +23,6 @@
   text-align: center;
   padding: 14px 30px;
   float: right;
-  }
-  .inline:hover {background-color:white;
   }
   .head {display: inline;
   color: black;
