@@ -6,14 +6,14 @@
   }
   body {background-image: url("bg.jpg");
   font-family: Palatino;
-  color: white;
+  color: #E5E7E9;
   }
   .center {text-align:center;
   }
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #F9E79F;
+  background-color: #F2D7D5;
   font-family: Palatino;
   font-size: 25px;
   overflow: hidden;
