@@ -10,26 +10,12 @@
   }
   .center {text-align:center;
   }
-  .bullet {list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #F2D7D5;
-  font-family: Palatino;
-  font-size: 25px;
-  overflow: hidden;
-  }
-  .inline {display: inline;
-  color: white;
-  text-align: center;
-  padding: 14px 30px;
-  float: right;
-  }
   .head {display: inline;
   color: black;
   text-align: center;
-  padding: 14px 30px;
+  padding: 12px 25px;
   float: left;
-  font-size: 30px;
+  font-size: 25px;
   }
   a {
   text-decoration: none;
