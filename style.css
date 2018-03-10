@@ -13,7 +13,7 @@
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #F5B7B1;
+  background-color: #F9E79F;
   font-family: Palatino;
   font-size: 25px;
   overflow: hidden;
@@ -46,7 +46,7 @@
   color: white
   }
   a:hover {
-  color: black
+  color: #424949
   }
   li {
   color: white
