@@ -29,18 +29,15 @@
   text-decoration: none;
   }
   a:link {
-  color: white
+  color: black
   }
   a:visited {
-  color: white
+  color: black
   }
   a:active {
-  color: white
-  }
-  a:hover {
-  color: #424949
+  color: black
   }
   li {
-  color: white
+  color: black
   }
 </style>
