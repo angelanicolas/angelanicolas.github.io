@@ -1,50 +1,35 @@
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Resume: Angela Marie Nicolas</title>
-    <link href="style.css" rel="stylesheet">
-    <meta name="viewport" content="width=device-width">
-  </head>
-<body>
-  <ul class="bullet">
-    <li class="inline">
-      <a href="education.html">
-        <b>EDUCATION</b>
-      </a>
-    </li>
-    <b>
-      <li class="inline">
-        <a href="#AboutMe">ABOUT ME</a>
-      </li>
-      <li class="inline">
-        <a href="#MySkills">MY SKILLS</a>
-      </li>
-      <li class="inline">
-        <a href="index.html">HOME</a>
-      </li>
-    </b>
-    <li class="head">
-      <b>RESUME</b>
-    </li>
-  </ul>
-  <section class=""my-education"">
-    <h2>Education</h2>
-    <b>Holy Spirit Academy of Malolos</b>
-    <li>Bagong Bayan, City of Malolos, Bulacan</li>
-    <li>June 2017-present</li>
-&nbsp
-    <b>Jurong West Secondary School</b>
-    <li>Jurong West, Singapore</li>
-    <li>January 2015-October 2016</li>
-&nbsp
-    <b>Hong Kah Secondary School</b>
-    <li>Jurong West, Singapore</li>
-    <li>January 2013-October 2014</li>
-  </section>
-  </body>
-</html>
-    
-    
-    
-    
+<head>
 
+  <meta charset="utf-8">
+  <title>Resume: Angela Marie Nicolas</title>
+
+  <link href="style.css" rel="stylesheet">
+
+  <meta name="viewport" content="width=device-width">
+
+</head>
+  <div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
+<div id="Oslo" class="tabcontent">
+  <h3>Oslo</h3>
+  <p>Oslo is the capital of Norway.</p>
+</div>
+
+<button class="tablink" onclick="openCity('London', this, 'red')" id="defaultOpen">London</button>
+<button class="tablink" onclick="openCity('Paris', this, 'green')">Paris</button>
+<button class="tablink" onclick="openCity('Tokyo', this, 'blue')">Tokyo</button>
+<button class="tablink" onclick="openCity('Oslo', this, 'orange')">Oslo</button>
